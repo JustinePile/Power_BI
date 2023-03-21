@@ -1,2 +1,2 @@
-# Power_BI
-Power BI report created for Predictive Data Lab
+# Power BI report of NYC EITC and Manhattan Home Sales created for Predictive Data Lab interview
+![screenshot](screenshot.png)
